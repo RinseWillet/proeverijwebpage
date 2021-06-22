@@ -6,25 +6,11 @@ Dit is een pagina die tijdens een proeverij is gemaakt.
 
 Vanaf hier gaan we een aanpassing doen en die met git pull naar de lokale versie halen.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```javascript
+console.log("Vette shit hoor, dit is een lokale verandering")
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
