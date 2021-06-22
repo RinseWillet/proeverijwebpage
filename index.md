@@ -2,9 +2,9 @@
 
 Dit is een pagina die tijdens een proeverij is gemaakt.
 
-### Markdown
+### Aanpassing vanaf de Github website
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Vanaf hier gaan we een aanpassing doen en die met git pull naar de lokale versie halen.
 
 ```markdown
 Syntax highlighted code block
